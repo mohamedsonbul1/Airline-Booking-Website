@@ -1,0 +1,434 @@
+.PaymentTitle{
+  position: absolute;
+  left:34%;
+  top: 15%;
+}
+
+.signoutPos{
+  margin-left: 1000px;
+}
+
+/* Admin Login */
+.ContainerAdmin{
+  position: absolute;
+  border: 2px solid black;
+  border-radius: 5px;
+  width: 300px;
+  height: 400px;
+  padding: 25px;
+  left: 36%;
+  top: 17%;
+}
+
+.centerAdmin{
+  margin-left: 75px;
+  margin-top: 10px;
+}
+.centerAdmin2{
+  margin-left: 35px;
+  margin-top: 10px;
+}
+
+.GButton{
+  position: relative;
+  /* margin: 7px; */
+  padding: 7px 10px;
+  background-color: rgb(255, 102, 0); 
+  color: white;
+  border: 2px solid white;
+  border-radius: 5px;
+  font-size: 16px;
+  width: 190px;
+  display: block;
+ 
+}
+.GButton:hover{
+  background-color: black; 
+  color: white;
+  border: 2px solid black;
+  
+}
+  
+.titleNav{
+  background-color: rgb(255, 102, 0);
+  border: 2px solid rgb(255, 102, 0);
+  margin-left: 1.5%;
+  margin-top: 3px;
+  font-size: 30px;
+  color: #ffffff;
+  height: 50px;
+}
+.loginButton{
+  position: absolute;
+  left:83%;
+  margin: 7px;
+  padding: 7px 10px;
+  top: 0%;
+  background-color: white; /* Green */
+  color: rgb(255, 102, 0);
+  border: 2px solid white;
+  border-radius: 5px;
+  font-size: 16px;
+  
+}
+
+.loginButton:hover{
+  background-color: black; /* Green */
+  color: white;
+  border: 2px solid black;
+}
+
+.loginButton2{
+  position: absolute;
+  left:90%;
+  margin: 7px;
+  top: 0%;
+  background-color: white; 
+  color: rgb(255, 102, 0);
+  padding: 7px 10px;
+  border: 2px solid white;
+  border-radius: 5px;
+  font-size: 16px;
+}
+.loginButton2:hover{
+  background-color: black; 
+  color: white;
+  border: 2px solid black;
+}
+
+.LoginNav{
+  height: 57px;
+  background-color: rgb(255, 102, 0);
+}
+
+.navColor{
+  background-color: rgb(255, 102, 0);
+  color: black;
+  padding-left: 10px;
+}
+
+
+.LoginUser{
+  position: absolute;
+  left: 10%;
+  top: 29%;
+}
+
+.titleLogin{
+  position: absolute;
+  left: 14% ;
+  top: 22%;
+  font-size: 30px;
+}
+
+
+.LoginBorder{
+  width: 300px;
+  height: 370px;
+  border: 3px solid black;
+  border-radius: 5px;
+  position: absolute;
+  left:7%;
+  top: 18%;
+}
+
+
+.LoginBorder2{
+  width: 300px;
+  height: 370px;
+  border: 3px solid black;
+  border-radius: 5px;
+  position: absolute;
+  left:70%;
+  top: 18%;
+  padding: 15px;
+}
+
+.createTitle{
+  margin-left: 10px;
+  left:700px;
+  top:30%;
+  
+}
+.createTitle2{
+  margin-left: 25px;
+  margin-top: 80px;
+  
+  
+}
+
+.LoginUserButton{
+  position: absolute;
+  left: 14%;
+  top: 48%;
+  background-color: rgb(255, 102, 0); 
+  color: white;
+  padding: 7px 10px;
+  border: 2px solid white;
+  border-radius: 5px;
+  font-size: 16px;
+}
+
+.LoginUserButton:hover{
+
+  border: 2px solid black;
+  background-color: rgb(255, 102, 0); 
+
+
+}
+
+.LoginUserButton2{
+  position: absolute;
+  left: 10%;
+  top: 55%;
+  background-color: rgb(255, 102, 0); 
+  color: white;
+  padding: 7px 10px;
+  border: 2px solid white;
+  border-radius: 5px;
+  font-size: 16px;
+}
+.LoginUserButton2:hover{
+
+  border: 2px solid black;
+  background-color: rgb(255, 102, 0); 
+
+
+}
+
+.LoginUserButton3{
+  position: absolute;
+  left: 14%;
+  top:62%;
+  background-color: rgb(255, 102, 0); 
+  color: white;
+  padding: 7px 10px;
+  border: 2px solid white;
+  border-radius: 5px;
+  font-size: 16px;
+}
+
+.LoginUserButton3:hover{
+
+  border: 2px solid black;
+  background-color: rgb(255, 102, 0); 
+
+
+}
+
+.loginBackgroung{
+  width: 50%;
+  height: 1500px;
+  background-color: coral;
+}
+
+.loginBackgroung2{
+  position: absolute;
+  left: 50%;
+  width: 50%;
+  height: 1500px;
+  background-color: #A9FAFF;
+}
+
+
+
+.mapImage{
+  position: absolute;
+  left: 44%;
+  top: 13%;
+  
+  
+}
+
+
+/* User Signup Page */
+
+.SignUpBorder{
+  width: 600px;
+  height: 500px;
+  border: 3px solid black;
+  border-radius: 5px;
+  position: absolute;
+  left:56%;
+  top: 15%;
+  padding: 15px;
+}
+
+.createUserButton{
+  position: absolute;
+  left: 40%;
+  /* top: 73%; */
+  background-color: rgb(255, 102, 0); 
+  color: white;
+  padding: 7px 10px;
+  border: 2px solid white;
+  border-radius: 5px;
+  font-size: 16px;
+  margin-top: 12px;
+  margin-left: -25px;
+
+}
+.createUserButton:hover{
+  border: 2px solid black;
+  background-color: rgb(255, 102, 0); 
+}
+
+.creatNewUserTitle{
+  margin-left: 180px;
+}
+.signupImage{
+  position: absolute;
+  left: 150px;
+  top: 15%;
+}
+
+/* Table Reservation List */
+.table1{
+  position: absolute;
+  width: 400px;
+  height: 150px;
+  left: 250px;
+}
+.table2{
+  position: absolute;
+  width: 600px;
+  height: 150px;
+  left: 623px;
+}
+
+  .bodyShape{
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    height: 100vh;
+    width: 100vw;
+  }
+  
+  .formShape {
+    width: 30vw;
+    min-width: 500px;
+    align-self: center;
+    box-shadow: 0px 0px 0px 0.5px rgba(50, 50, 93, 0.1),
+      0px 2px 5px 0px rgba(50, 50, 93, 0.1), 0px 1px 1.5px 0px rgba(0, 0, 0, 0.07);
+    border-radius: 7px;
+    padding: 40px;
+  }
+  
+  
+  #payment-message {
+    color: rgb(105, 115, 134);
+    font-size: 16px;
+    line-height: 20px;
+    padding-top: 12px;
+    text-align: center;
+  }
+  
+  #payment-element {
+    margin-bottom: 24px;
+  }
+  
+  /* Buttons and links */
+  .buttonShape {
+    background: #5469d4;
+    font-family: Arial, sans-serif;
+    color: #ffffff;
+    border-radius: 4px;
+    border: 0;
+    padding: 12px 16px;
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+    display: block;
+    transition: all 0.2s ease;
+    box-shadow: 0px 4px 5.5px 0px rgba(0, 0, 0, 0.07);
+    width: 100%;
+  }
+  
+  button:hover {
+    filter: contrast(115%);
+  }
+  
+  button:disabled {
+    opacity: 0.5;
+    cursor: default;
+  }
+  
+  /* spinner/processing state, errors */
+  .spinner,
+  .spinner:before,
+  .spinner:after {
+    border-radius: 50%;
+  }
+  
+  .spinner {
+    color: #ffffff;
+    font-size: 22px;
+    text-indent: -99999px;
+    margin: 0px auto;
+    position: relative;
+    width: 20px;
+    height: 20px;
+    box-shadow: inset 0 0 0 2px;
+    -webkit-transform: translateZ(0);
+    -ms-transform: translateZ(0);
+    transform: translateZ(0);
+  }
+  
+  .spinner:before,
+  .spinner:after {
+    position: absolute;
+    content: '';
+  }
+  
+  .spinner:before {
+    width: 10.4px;
+    height: 20.4px;
+    background: #5469d4;
+    border-radius: 20.4px 0 0 20.4px;
+    top: -0.2px;
+    left: -0.2px;
+    -webkit-transform-origin: 10.4px 10.2px;
+    transform-origin: 10.4px 10.2px;
+    -webkit-animation: loading 2s infinite ease 1.5s;
+    animation: loading 2s infinite ease 1.5s;
+  }
+  
+  .spinner:after {
+    width: 10.4px;
+    height: 10.2px;
+    background: #5469d4;
+    border-radius: 0 10.2px 10.2px 0;
+    top: -0.1px;
+    left: 10.2px;
+    -webkit-transform-origin: 0px 10.2px;
+    transform-origin: 0px 10.2px;
+    -webkit-animation: loading 2s infinite ease;
+    animation: loading 2s infinite ease;
+  }
+
+  .Seats{
+    width: 200px;
+    position: relative;
+    left: -50px;
+  }
+  
+  @keyframes loading {
+    0% {
+      -webkit-transform: rotate(0deg);
+      transform: rotate(0deg);
+    }
+    100% {
+      -webkit-transform: rotate(360deg);
+      transform: rotate(360deg);
+    }
+  }
+  
+  @media only screen and (max-width: 600px) {
+    form {
+      width: 80vw;
+      min-width: initial;
+    }
+  }
